@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a **Computer Science and Engineering student**
 
 ---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A8LzyLzRq9Mk36iNcIQ9_9thJArtH8oS/view?usp=drivesdk](https://drive.google.com/file/d/1A8LzyLzRq9Mk36iNcIQ9_9thJArtH8oS/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KNnHYM_yD39VUgUC955NCtmNai6ZHWDw/view?usp=drivesdk]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
